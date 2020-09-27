@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">This is time!</string>
+    <string name="my_analog_name">This is time</string>
+    <string name="title">This is %s, %d/%d</string>
+
+    <string-array name="week_day">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+</resources>

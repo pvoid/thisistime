@@ -1,6 +1,6 @@
-Small and simple watchface for android wear 1.5
+Small and simple watchface for android wear
 
-Created for my old android wear device and never meant to be universal.
+Created for Pixel Watches and never tested on any other device.
 IMPORTANT! The watchface ignores burn protection flag. Long usage can damage
 your watch screen.
 

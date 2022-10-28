@@ -1,15 +1,23 @@
 <resources>
-    <string name="app_name">This is time!</string>
-    <string name="my_analog_name">This is time</string>
+    <string name="this_is_app_name">This is time!</string>
+    <string name="this_is_watchface_name">This is time</string>
     <string name="title">This is %s, %d/%d</string>
 
     <string-array name="week_day">
-        <item>Sun</item>
         <item>Mon</item>
         <item>Tue</item>
         <item>Wed</item>
         <item>Thu</item>
         <item>Fri</item>
         <item>Sat</item>
+        <item>Sun</item>
     </string-array>
+
+    <string name="layout_compat_right">Compat right sided</string>
+    <string name="layout_compat_left">Compat left sided</string>
+    <string name="layout_full_right">Full right sided</string>
+    <string name="layout_full">Full</string>
+    <string name="layout_clear">Clear</string>
+    <string name="option_layout_name">Layout</string>
+    <string name="option_layout_desc">Watchface layout</string>
 </resources>

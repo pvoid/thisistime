@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="time_size">28sp</dimen>
-    <dimen name="title_size">14sp</dimen>
-    <dimen name="title_padding">5dp</dimen>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="title_padding">6dp</dimen>
+
+    <dimen name="time_size">30sp</dimen>
+    <dimen name="time_stroke">1.4sp</dimen>
+
+    <dimen name="title_size">16sp</dimen>
+    <dimen name="title_stroke">1sp</dimen>
+    <dimen name="background_offset_top" tools:ignore="PxUsage">48px</dimen>
+    <dimen name="time_offset_top" tools:ignore="PxUsage">41px</dimen>
+    <dimen name="time_offset_left" tools:ignore="PxUsage">136px</dimen>
+    <dimen name="time_width" tools:ignore="PxUsage">464px</dimen>
+    <dimen name="time_height" tools:ignore="PxUsage">155px</dimen>
 </resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="background_offset_top">0px</dimen>
+    <dimen name="time_offset_top" tools:ignore="PxUsage">103px</dimen>
+    <dimen name="time_offset_left" tools:ignore="PxUsage">136px</dimen>
+</resources>

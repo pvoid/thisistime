@@ -20,4 +20,6 @@
     <string name="layout_clear">Clear</string>
     <string name="option_layout_name">Layout</string>
     <string name="option_layout_desc">Watchface layout</string>
+    <string name="option_ambient_type_name">Show background in ambient mode</string>
+    <string name="option_ambient_type_desc">Show black and white background in ambient mode. Potentially can be dangerous on OLED/AMOLED screens.</string>
 </resources>

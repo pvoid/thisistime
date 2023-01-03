@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="title_color">#000</color>
+    <color name="title_ambient_color">#ccc</color>
     <color name="time_color">#000</color>
+    <color name="time_ambient_color">#ccc</color>
 </resources>

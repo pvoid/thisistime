@@ -63,7 +63,7 @@ class ThisIsWatchFace : WatchFaceService() {
                 resources.getString(R.string.option_ambient_type_desc),
                 icon = null,
                 listOf(),
-                true
+                false
             ),
             UserStyleSetting.ComplicationSlotsUserStyleSetting(
                 UserStyleSetting.Id(STYLE_KEY_LAYOUT),
